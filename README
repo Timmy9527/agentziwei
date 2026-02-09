@@ -1,48 +1,49 @@
-Ziwei AI
+# Ziwei AI / 紫微AI
 
-Overview:
-Ziwei AI is an innovative AI application based on the wisdom of traditional Chinese culture, specifically “Ziwei Dou Shu.” It aims to help users better inherit Chinese civilization by leveraging big data methodologies to process information, understand oneself, master life’s rules, and improve work and life efficiency.
+Product and project documentation for the Ziwei AI application.
 
-Ziwei AI seamlessly integrates the wisdom of traditional culture with modern technology. With its three core features—charting, chart analysis, and interactive reports—Ziwei AI provides a professional yet simplified, engaging, and accessible tool. It caters to users’ needs for big data trend analysis and interpretation.
+---
 
-Core Features:
+## Product overview (English)
 
-	1.	Charting Function:
-Ziwei AI offers comprehensive charting services, including birth charting, 10-year fortune charts, annual/luck cycle charts, monthly charts, daily charts, and even hourly charts. This function allows users to visualize their Ziwei star charts, combining historical, geographical, and astronomical knowledge to understand personality traits and natural talents while identifying trends and developments across different life stages.
-	2.	Chart Analysis:
-Ziwei AI delivers fully automated analysis services and generates real-time, precise reports. Using a systematic approach, it provides targeted interpretations of charting results, uncovering hidden data insights. This helps users objectively understand the underlying values and positive energies, enabling smarter decisions in life to maximize benefits and avoid pitfalls.
-	3.	Interactive Reports:
-Ziwei AI enables users to engage with traditional cultural knowledge through conversational interactions. It offers personalized and engaging Ziwei Dou Shu knowledge in an easily digestible format, enhancing user experience and contextualizing interpretations for daily life scenarios. This functionality fosters better understanding and promotes traditional cultural dissemination.
-	4.	Cultural Inheritance and Popularization:
-By combining traditional Chinese culture with modern technology, Ziwei AI innovatively inherits the wisdom of Ziwei Dou Shu while promoting Chinese civilization on the global stage. Its AI-generated reasoning reports not only improve the scientific validity and readability of metaphysics but also contribute to the dissemination of Eastern traditional culture in contemporary society.
+Ziwei AI is an AI application based on the wisdom of traditional Chinese culture, specifically **Ziwei Dou Shu** (紫微斗数). It helps users understand themselves, grasp life patterns, and improve decisions through charting, automated analysis, and interactive reports.
 
-Ziwei AI is not just a practical and fun technological application; it is a gateway to the profound wisdom of traditional culture empowered by artificial intelligence. Let us embrace this groundbreaking fusion of ancient wisdom and modern technology.
+**Core features:**
 
-Service Access:
-	•	WeChat Official Account: Ziwei AI
-	•	Website: https://ziweiai.com.cn
+1. **Charting** — Birth charts, 10-year fortune, annual/monthly/daily/hourly charts. Combines historical, geographical, and astronomical context to visualize Ziwei star charts and trends.
+2. **Chart analysis** — Automated, real-time analysis and reports. Systematic interpretation of chart results to support objective understanding and smarter life decisions.
+3. **Interactive reports** — Conversational access to Ziwei knowledge; personalized, contextual interpretations for daily life.
+4. **Cultural inheritance** — Fuses traditional wisdom with modern technology; promotes scientific validity and readability of metaphysics and Eastern culture.
 
-API Application:
-Email: 279253045@qq.com
+**Service access:**
 
+- WeChat: 紫微AI
+- Website (CN): https://ziweiai.com.cn
+- Website (EN): https://ziweai.com
+- Sitemap: https://ziweiai.com.cn/sitemap.xml
 
-紫微AI
-基本介绍：
-紫微AI，是一款以中国传统文化智慧“紫微斗数”为基础的AI科技创新应用，帮助用户更好地传承中华文明，通过大数据方法 论处理信息、认知自我、掌握规则，提升工作、生活的效率和质量。
-紫微AI将传统文化智慧与现代科技巧妙融合，基于排盘、解盘和对话报告三大核心功能进行精心设计，将专业化工具更清晰简洁、生动有趣，易于普及，能够满足广大用户对于大数据趋势分析解读的需求。
-1. 排盘功能: AI 紫微支持全方位的排盘服务，包括出生日期一生排盘、大运十年排盘、流年/小限排盘、流月排盘、流日和流时排盘。用户可以通过这一功能，对自身紫微星盘一目了然，并结合历史、地理、天文学知识，掌握自身性格、天赋方面的特征规律，洞悉各个时期的趋势规律发展。
-2. 解盘功能: AI 紫微不仅提供了全自动的解盘服务，还能够实时生成精准分析报告。通过程序化的方式，为用户提供针对性排 盘结果解读，深入探知其中的数据密码，深入客观认知其中传递的价值观和正能量，为生活作出更明智的决策，趋利避害。
-3. 对话报告: AI 紫微通过与用户的互动对话方式，满足用户学习探究传统文化，让专业的紫微斗数的知识深入浅出，呈现出个性化和趣味性。这一独特的功能不仅提升了用户体验，也使命理解 读更加贴近用户的生活场景，有助于传统文化的普及。
-4. 文化传承与普及: AI 紫微将中国传统文化与现代科技相结合，以新颖的形式传承紫微斗数的智慧，在世界舞台上展示和交流，引发不同民族对于中华文明的认知和兴趣。通过AI输出推理报告，不仅提高了命理学的科学性、可读性，也促进了东方传统文化在当代社会的传播。
-紫微AI，不仅仅是一款实用有趣的科技应用，更是以人工智能开启了一扇通往博大精深的传统智慧的大门。让我们共同迎接这款古老智慧与现代科技完美融合的创新应用。
+**API / integration:** 279253045@qq.com
 
-服务体验：
-微信公众号：紫微AI
-网站：https://ziweiai.com.cn
-高质量内容sitemap:https://ziweiai.com.cn/sitemap.xml
+---
 
+## 产品简介（中文）
 
+紫微AI是一款以中国传统文化智慧「紫微斗数」为基础的 AI 应用，帮助用户更好地传承中华文明，通过大数据方法论处理信息、认知自我、掌握规则，提升工作与生活效率。
 
-接口申请：
-279253045@qq.com
+**核心功能：**
 
+1. **排盘** — 出生一生排盘、大运十年、流年/流月/流日/流时排盘；结合历史、地理与天文学知识，掌握性格与天赋特征及各阶段趋势。
+2. **解盘** — 全自动解盘与实时精准分析报告；程序化解读排盘结果，客观认知其中传递的价值观与正能量，趋利避害。
+3. **对话报告** — 以互动对话方式学习传统文化，紫微斗数知识深入浅出、个性化与趣味化，贴近生活场景。
+4. **文化传承与普及** — 传统文化与现代科技结合，以新颖形式传承紫微斗数智慧；AI 推理报告提升命理学的科学性与可读性，促进东方传统文化传播。
+
+**服务体验：**
+
+- 微信公众号：紫微AI
+- 网站：https://ziweiai.com.cn
+- 高质量内容 sitemap：https://ziweiai.com.cn/sitemap.xml
+
+**接口申请：** 279253045@qq.com
+
+---
+MCP server 使用说明（中英）：项目内 `mcp-server/README.md`、`mcp-server/README.zh-CN.md`；仓库 [GitHub: Timmy9527/agentziwei](https://github.com/Timmy9527/agentziwei).
