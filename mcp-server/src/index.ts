@@ -39,9 +39,10 @@ async function apiPost(path: string, body: unknown): Promise<unknown> {
   return res.json()
 }
 
+// Name must match the key in Cursor mcp.json (e.g. "ziweiai") so Cursor can match server info.
 const server = new Server(
   {
-    name: 'ziweiai-mcp',
+    name: 'ziweiai',
     version: '0.1.0',
   },
   {
