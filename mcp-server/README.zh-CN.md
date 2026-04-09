@@ -32,7 +32,7 @@ npm run build
 
 ## 前置条件
 
-1. **MCP API Key**：登录 [ziweiai.com.cn](https://ziweiai.com.cn) 或 [ziweai.com](https://ziweai.com)，进入 **我的报告**，在页面上方找到 **MCP 集成**，点击 **生成 MCP API Key**。复制 Key（仅显示一次）。
+1. **MCP API Key**：登录 [ziweiai.com.cn](https://ziweiai.com.cn) 或 [ziweiai.com](https://ziweiai.com)，进入 **我的报告**，在页面上方找到 **MCP 集成**，点击 **生成 MCP API Key**。复制 Key（仅显示一次）。
 2. **报告**：请先在网站购买报告；MCP 仅可查询已购报告并获取其内容。
 
 ## 环境变量
@@ -40,7 +40,7 @@ npm run build
 | 变量 | 必填 | 说明 |
 |------|------|------|
 | `ZIWEIAI_MCP_API_KEY` | 是 | 在网站获取的 MCP API Key。 |
-| `ZIWEIAI_API_BASE` | 否 | 接口基础 URL（默认：`https://ziweiai.com.cn`）。 |
+| `ZIWEIAI_API_BASE` | 否 | 接口基础 URL（默认：`https://ziweiai.com`）。如果你的账号/报告在中文站，可设置为 `https://ziweiai.com.cn`。 |
 
 ## 运行
 

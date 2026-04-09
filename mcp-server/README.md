@@ -32,7 +32,7 @@ npm run build
 
 ## Prerequisites
 
-1. **MCP API Key**: Log in at [ziweai.com](https://ziweai.com) or [ziweiai.com.cn](https://ziweiai.com.cn), go to **My Reports**, find **MCP Integration**, and click **Generate MCP API Key**. Copy the key (it is shown only once).
+1. **MCP API Key**: Log in at [ziweiai.com](https://ziweiai.com) or [ziweiai.com.cn](https://ziweiai.com.cn), go to **My Reports**, find **MCP Integration**, and click **Generate MCP API Key**. Copy the key (it is shown only once).
 2. **Reports**: Purchase reports on the website first; MCP can only list purchased reports and fetch their content.
 
 ## Environment
@@ -40,7 +40,7 @@ npm run build
 | Variable | Required | Description |
 |----------|----------|-------------|
 | `ZIWEIAI_MCP_API_KEY` | Yes | Your MCP API key from the website. |
-| `ZIWEIAI_API_BASE` | No | API base URL (default: `https://ziweai.com`). |
+| `ZIWEIAI_API_BASE` | No | API base URL (default: `https://ziweiai.com`). Use `https://ziweiai.com.cn` if your account/reports are on the Chinese site. |
 
 ## Run
 

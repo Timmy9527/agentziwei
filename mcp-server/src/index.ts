@@ -3,7 +3,7 @@
 /**
  * ZiweiAI MCP Server (stdio).
  * Set env ZIWEIAI_MCP_API_KEY to your API key (from ziweiai "我的报告" -> MCP Integration).
- * Set ZIWEIAI_API_BASE to override API base (default https://ziweiai.com.cn).
+ * Set ZIWEIAI_API_BASE to override API base (default https://ziweiai.com for international EN API).
  */
 
 import { Server } from '@modelcontextprotocol/sdk/server/index.js'
@@ -14,7 +14,7 @@ import {
 } from '@modelcontextprotocol/sdk/types.js'
 
 const API_KEY = process.env.ZIWEIAI_MCP_API_KEY || ''
-const BASE = (process.env.ZIWEIAI_API_BASE || 'https://ziweiai.com.cn').replace(/\/$/, '')
+const BASE = (process.env.ZIWEIAI_API_BASE || 'https://ziweiai.com').replace(/\/$/, '')
 
 function headers(): HeadersInit {
   return {
