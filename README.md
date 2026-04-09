@@ -19,7 +19,7 @@ Ziwei AI is an AI application based on the wisdom of traditional Chinese culture
 
 - WeChat: 紫微AI
 - Website (CN): https://ziweiai.com.cn
-- Website (EN): https://ziweai.com
+- Website (EN): https://ziweiai.com
 - Sitemap: https://ziweiai.com.cn/sitemap.xml
 
 **API / integration:** 279253045@qq.com
